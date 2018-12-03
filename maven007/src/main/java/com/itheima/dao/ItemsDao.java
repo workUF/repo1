@@ -4,4 +4,5 @@ import com.itheima.domain.Items;
 
 public interface ItemsDao {
     Items findById(Integer id);
+	System.out.println("HelloWorld!");
 }
